@@ -1,0 +1,6 @@
+{
+  "name": "Crumb & Crust Bakery Management",
+  "description": "Production management system for small bakeries featuring POS, daily bake schedules, recipe costing, raw ingredient inventory, and custom order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
